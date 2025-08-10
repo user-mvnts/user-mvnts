@@ -17,10 +17,7 @@
 
 ### 📂 Repositórios em destaque
 
-- 🔐 [Análise de tráfego com Wireshark](https://github.com/seuusuario/wireshark-analysis)
-- 🕵️‍♂️ [Scan de rede com Nmap](https://github.com/seuusuario/nmap-scan)
-- 🛡️ [Hardening básico em Linux](https://github.com/seuusuario/linux-hardening)
-- ⚙️ [Scripts em Python para automação de segurança](https://github.com/seuusuario/python-security-scripts)
+- 🛡️ [Google Cybersecurity Certification](https://github.com/seuusuario/wireshark-analysis)
 
 ---
 
