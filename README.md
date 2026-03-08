@@ -2,35 +2,15 @@
 
 <p align="center">
 🎓 Estudante de Engenharia de Software <br>
-⚙️ Interessado em Engenharia de Dados, bancos de dados e infraestrutura de dados
+⚙️ Interessado em Engenharia de Dados
 </p>
 
 ---
 
-### 🧠 Sobre mim
+### 📂 Repositórios
 
-* 🎓 Estudante de **Engenharia de Software**
-* 📚 Iniciando estudos em **Engenharia de Dados**
-* 🗄️ Aprendendo **SQL e modelagem de bancos de dados**
-* 🐧 Experiência acadêmica com **Linux, redes e automação com Python**
-* 🔐 Interesse em **cibersegurança e infraestrutura**
-
----
-
-### 📚 Atualmente estudando
-
-* SQL
-* Modelagem de banco de dados
-* Estrutura e organização de dados
-* Python para manipulação e processamento de dados
-
----
-
-### 📂 Repositórios em destaque
-
-* 🗄️ Estudos e exercícios de **SQL**
-* ⚙️ Scripts em **Python para manipulação de dados**
-* 📊 Modelagem de **banco de dados**
+* projetos-faculdade
+* projetos-pessoais
 
 ---
 
