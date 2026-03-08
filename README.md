@@ -1,25 +1,36 @@
 <h1 align="center">Olá, eu sou o Matheus Ventura 👋</h1>
 
 <p align="center">
-  🎓 Estudante de Engenharia de Software <br/>
-  💻 Interesse em análise de dados, engenharia de software e cibersegurança
+🎓 Estudante de Engenharia de Software <br>
+⚙️ Interessado em Engenharia de Dados, bancos de dados e infraestrutura de dados
 </p>
 
 ---
 
 ### 🧠 Sobre mim
 
-- 🧩 Interesse em trabalhar com dados, lógica e resolução de problemas  
-- 🐧 Experiência acadêmica com Linux, redes e automações utilizando Python  
-- 📊 Estudando análise, organização e tratamento de dados para suporte à tomada de decisão  
-- 🔐 Interesse contínuo em cibersegurança e qualidade da informação  
+* 🎓 Estudante de **Engenharia de Software**
+* 📚 Iniciando estudos em **Engenharia de Dados**
+* 🗄️ Aprendendo **SQL e modelagem de bancos de dados**
+* 🐧 Experiência acadêmica com **Linux, redes e automação com Python**
+* 🔐 Interesse em **cibersegurança e infraestrutura**
+
+---
+
+### 📚 Atualmente estudando
+
+* SQL
+* Modelagem de banco de dados
+* Estrutura e organização de dados
+* Python para manipulação e processamento de dados
 
 ---
 
 ### 📂 Repositórios em destaque
 
-- 📊 <strong>Análise de Dados de Vendas Digitais</strong> <em>(em desenvolvimento)</em>  
-- 🛡️ <a href="https://github.com/seuusuario/wireshark-analysis">Google Cybersecurity Certification</a>
+* 🗄️ Estudos e exercícios de **SQL**
+* ⚙️ Scripts em **Python para manipulação de dados**
+* 📊 Modelagem de **banco de dados**
 
 ---
 
