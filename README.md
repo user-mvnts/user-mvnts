@@ -25,10 +25,16 @@
 <b>Repositórios em destaque</b>
 </p>
 
-<p align="center">
-• projetos-faculdade<br>
-• projetos-pessoais
-</p>
+<table align="center" border="0" cellspacing="10" cellpadding="0">
+<tr>
+<td align="center">
+<a href="https://google.com">projetos-faculdade</a>
+</td>
+<td align="center">
+<a href="https://google.com">projetos-pessoais</a>
+</td>
+</tr>
+</table>
 
 ---
 
