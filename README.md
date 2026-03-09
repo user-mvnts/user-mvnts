@@ -43,10 +43,6 @@
 ---
 
 <p align="center">
-<img src="assets/fa0871e17c202452a4a3c7aaf0b828dd.gif" width="60">
-</p>
-
-<p align="center">
 <b>Onde me encontrar</b>
 </p>
 
