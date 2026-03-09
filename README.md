@@ -35,19 +35,3 @@
 </td>
 </tr>
 </table>
-
----
-
-<img src="assets/mikufrutiger.png" width="100%">
-
----
-
-<p align="center">
-<b>Onde me encontrar</b>
-</p>
-
-<p align="center">
-<img src="assets/iconweb1001.png" width="45">
-<img src="assets/iconweb1002.png" width="45">
-<img src="assets/iconweb1003.png" width="45">
-</p>
