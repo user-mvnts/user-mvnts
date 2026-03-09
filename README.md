@@ -1,10 +1,23 @@
-<img src="bar.png">
-<h1 align="center">Olá, me chamo Matheus 👋</h1>
+<img src="bar.png" width="100%">
 
-<p align="center">
-🎓 Estudante de Engenharia de Software <br>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+
+<td valign="middle">
+<img src="https://www.pngall.com/wp-content/uploads/17/Frutiger-Aero-Minimalist-Typographic-Approach-PNG.png" width="40">
+</td>
+
+<td valign="middle">
+<b><font size="6">Olá, me chamo Matheus</font></b>
+</td>
+
+<td valign="middle" align="left" style="padding-left:40px;">
+🎓 Estudante de Engenharia de Software<br>
 ⚙️ Interessado em Engenharia de Dados
-</p>
+</td>
+
+</tr>
+</table>
 
 ---
 
