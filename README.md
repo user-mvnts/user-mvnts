@@ -38,7 +38,7 @@
 
 ---
 
-<img src="assets/k43uamsafppe1.jpeg" width="100%">
+<img src="assets/mikufrutiger.png" width="100%">
 
 ---
 
