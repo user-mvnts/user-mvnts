@@ -11,9 +11,9 @@
 <b><font size="6">Olá, me chamo Matheus</font></b>
 </td>
 
-<td valign="middle" align="left" style="padding-left:40px;">
-🎓 Estudante de Engenharia de Software<br>
-⚙️ Interessado em Engenharia de Dados
+<td valign="middle">
+&nbsp;&nbsp;&nbsp;&nbsp;🎓 Estudante de Engenharia de Software<br>
+&nbsp;&nbsp;&nbsp;&nbsp;⚙️ Interessado em Engenharia de Dados
 </td>
 
 </tr>
@@ -21,20 +21,31 @@
 
 ---
 
-### 📂 Repositórios
+<p align="center">
+<img src="https://64.media.tumblr.com/14b70aac048f1fb33ab7a6a664e53d42/tumblr_othwc8Vx111r6oew5o1_400.gif" width="60">
+</p>
 
-* projetos-faculdade
-* projetos-pessoais
+<p align="center">
+<b>Repositórios em destaque</b>
+</p>
+
+<p align="center">
+• projetos-faculdade<br>
+• projetos-pessoais
+</p>
 
 ---
 
-### 🌍 Onde me encontrar
+<p align="center">
+<img src="https://i.pinimg.com/originals/fa/08/71/fa0871e17c202452a4a3c7aaf0b828dd.gif" width="60">
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheusventura-santos/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Ventura-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://www.instagram.com/user.vnts" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@user.vnts-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+<b>Onde me encontrar</b>
+</p>
+
+<p align="center">
+<img src="iconweb1001.png" width="45">
+<img src="iconweb1002.png" width="45">
+<img src="iconweb1003.png" width="45">
 </p>
