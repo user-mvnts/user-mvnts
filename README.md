@@ -55,5 +55,3 @@
 <img src="assets/iconweb1002.png" width="45">
 <img src="assets/iconweb1003.png" width="45">
 </p>
-
----
