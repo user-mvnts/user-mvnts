@@ -1,3 +1,4 @@
+<img src="bar.png">
 <h1 align="center">Olá, me chamo Matheus 👋</h1>
 
 <p align="center">
